@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5789184-DC4A-4DF7-B118-BBFA9FB41587}|OrderClient\\OrderClient.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\orderclient\\model\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5789184-DC4A-4DF7-B118-BBFA9FB41587}|OrderClient\\OrderClient.csproj|solutionrelative:orderclient\\model\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5789184-DC4A-4DF7-B118-BBFA9FB41587}|OrderClient\\OrderClient.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\orderclient\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5789184-DC4A-4DF7-B118-BBFA9FB41587}|OrderClient\\OrderClient.csproj|solutionrelative:orderclient\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E3CB73-E46E-4309-8F40-3662E54A9C29}|PaymentService\\PaymentRPC.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\paymentservice\\services\\paymentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E3CB73-E46E-4309-8F40-3662E54A9C29}|PaymentService\\PaymentRPC.csproj|solutionrelative:paymentservice\\services\\paymentserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}|InventoryService\\InventoryRPC.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\inventoryservice\\protos\\inventory.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}|InventoryService\\InventoryRPC.csproj|solutionrelative:inventoryservice\\protos\\inventory.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E3CB73-E46E-4309-8F40-3662E54A9C29}|PaymentService\\PaymentRPC.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\paymentservice\\paymentrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1E3CB73-E46E-4309-8F40-3662E54A9C29}|PaymentService\\PaymentRPC.csproj|solutionrelative:paymentservice\\paymentrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5789184-DC4A-4DF7-B118-BBFA9FB41587}|OrderClient\\OrderClient.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\orderclient\\orderclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5789184-DC4A-4DF7-B118-BBFA9FB41587}|OrderClient\\OrderClient.csproj|solutionrelative:orderclient\\orderclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}|InventoryService\\InventoryRPC.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\inventoryservice\\inventoryrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}|InventoryService\\InventoryRPC.csproj|solutionrelative:inventoryservice\\inventoryrpc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5789184-DC4A-4DF7-B118-BBFA9FB41587}|OrderClient\\OrderClient.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\orderclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5789184-DC4A-4DF7-B118-BBFA9FB41587}|OrderClient\\OrderClient.csproj|solutionrelative:orderclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E3CB73-E46E-4309-8F40-3662E54A9C29}|PaymentService\\PaymentRPC.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\paymentservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1E3CB73-E46E-4309-8F40-3662E54A9C29}|PaymentService\\PaymentRPC.csproj|solutionrelative:paymentservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}|InventoryService\\InventoryRPC.csproj|c:\\users\\hyper\\desktop\\grpc\\orderclient\\inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}|InventoryService\\InventoryRPC.csproj|solutionrelative:inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\Model\\OrderDto.cs",
+              "RelativeDocumentMoniker": "OrderClient\\Model\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\Model\\OrderDto.cs",
+              "RelativeToolTip": "OrderClient\\Model\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:50:31.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\PaymentService\\Services\\PaymentServiceImpl.cs",
+              "RelativeDocumentMoniker": "PaymentService\\Services\\PaymentServiceImpl.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\PaymentService\\Services\\PaymentServiceImpl.cs",
+              "RelativeToolTip": "PaymentService\\Services\\PaymentServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T02:05:07.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "inventory.proto",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\InventoryService\\Protos\\inventory.proto",
+              "RelativeDocumentMoniker": "InventoryService\\Protos\\inventory.proto",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\InventoryService\\Protos\\inventory.proto",
+              "RelativeToolTip": "InventoryService\\Protos\\inventory.proto",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2025-04-05T02:00:10.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderClient.csproj",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\OrderClient.csproj",
+              "RelativeDocumentMoniker": "OrderClient\\OrderClient.csproj",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\OrderClient.csproj",
+              "RelativeToolTip": "OrderClient\\OrderClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T01:57:46.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryRPC.csproj",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\InventoryService\\InventoryRPC.csproj",
+              "RelativeDocumentMoniker": "InventoryService\\InventoryRPC.csproj",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\InventoryService\\InventoryRPC.csproj",
+              "RelativeToolTip": "InventoryService\\InventoryRPC.csproj",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T01:57:37.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderClient\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderClient\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T22:55:44.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\Program.cs",
+              "RelativeDocumentMoniker": "OrderClient\\Program.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\Program.cs",
+              "RelativeToolTip": "OrderClient\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:21:06.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentRPC.csproj",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\PaymentService\\PaymentRPC.csproj",
+              "RelativeDocumentMoniker": "PaymentService\\PaymentRPC.csproj",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\PaymentService\\PaymentRPC.csproj",
+              "RelativeToolTip": "PaymentService\\PaymentRPC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T23:10:36.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\InventoryService\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Program.cs",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\InventoryService\\Program.cs",
+              "RelativeToolTip": "InventoryService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T23:06:33.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\PaymentService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PaymentService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\PaymentService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PaymentService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T00:24:39.449Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

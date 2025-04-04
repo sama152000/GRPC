@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderClient", "OrderClient\OrderClient.csproj", "{D5789184-DC4A-4DF7-B118-BBFA9FB41587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventoryRPC", "InventoryService\InventoryRPC.csproj", "{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentRPC", "PaymentService\PaymentRPC.csproj", "{A1E3CB73-E46E-4309-8F40-3662E54A9C29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5789184-DC4A-4DF7-B118-BBFA9FB41587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5789184-DC4A-4DF7-B118-BBFA9FB41587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5789184-DC4A-4DF7-B118-BBFA9FB41587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5789184-DC4A-4DF7-B118-BBFA9FB41587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8F13D2-EDC5-46C1-B5C5-076AD3D6EBFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E3CB73-E46E-4309-8F40-3662E54A9C29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E3CB73-E46E-4309-8F40-3662E54A9C29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E3CB73-E46E-4309-8F40-3662E54A9C29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E3CB73-E46E-4309-8F40-3662E54A9C29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

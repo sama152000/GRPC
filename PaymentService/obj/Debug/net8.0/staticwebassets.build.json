@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "yck5KHWmsLFOtxuHsPP0apTuq0fEB0VcJVJ7K7b+wfs=",
+  "Source": "PaymentRPC",
+  "BasePath": "_content/PaymentRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

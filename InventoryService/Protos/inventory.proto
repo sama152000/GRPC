@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+option csharp_namespace = "InventoryService";
+
+package inventory;
+
+message DeductRequest {
+  string productName = 1;
+  int32 quantity = 2;
+}
+
+message DeductResponse {
+  bool success = 1;
+  string message = 2;
+}
+
+service Inventory {
+  rpc Deduct (DeductRequest) returns (DeductResponse);
+}

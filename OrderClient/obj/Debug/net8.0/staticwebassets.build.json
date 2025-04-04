@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GZrsRAciVDG/L44Kl+dWLWkE3n3+ll85tz6D2o7PTaU=",
+  "Source": "OrderClient",
+  "BasePath": "_content/OrderClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "T3oplR6+iJCTxztz4oKkRIpXIef0sH86xXfMmcA9pw8=",
+  "Source": "InventoryRPC",
+  "BasePath": "_content/InventoryRPC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

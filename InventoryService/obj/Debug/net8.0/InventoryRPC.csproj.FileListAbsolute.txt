@@ -1,0 +1,76 @@
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\appsettings.Development.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\appsettings.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.staticwebassets.endpoints.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.exe
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.deps.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.runtimeconfig.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.pdb
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\Google.Protobuf.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.Core.Api.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.Net.Client.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.Net.Common.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.csproj.AssemblyReference.cache
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.AssemblyInfoInputs.cache
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.AssemblyInfo.cs
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.csproj.CoreCompileInputs.cache
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\scopedcss\bundle\InventoryRPC.styles.css
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.build.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.development.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.InventoryRPC.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.InventoryRPC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryRPC.props
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryRPC.props
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryRPC.props
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.pack.json
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\Inventor.9F2091E4.Up2Date
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\refint\InventoryRPC.dll
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.pdb
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.genruntimeconfig.cache
+F:\ITI\MVC asyut\OrderClient\InventoryService\obj\Debug\net8.0\ref\InventoryRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\appsettings.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.staticwebassets.endpoints.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.exe
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.deps.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.runtimeconfig.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\InventoryRPC.pdb
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.csproj.AssemblyReference.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.AssemblyInfoInputs.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.AssemblyInfo.cs
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.csproj.CoreCompileInputs.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\scopedcss\bundle\InventoryRPC.styles.css
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.InventoryRPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.InventoryRPC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.build.InventoryRPC.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.InventoryRPC.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.InventoryRPC.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\Inventor.9F2091E4.Up2Date
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\refint\InventoryRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.pdb
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\InventoryRPC.genruntimeconfig.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\InventoryService\obj\Debug\net8.0\ref\InventoryRPC.dll
