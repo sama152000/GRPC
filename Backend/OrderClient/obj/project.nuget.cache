@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c8DhQs4qGZg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hyper\\Desktop\\GRPC\\OrderClient\\OrderClient\\OrderClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyper\\.nuget\\packages\\grpc.tools\\2.57.0\\grpc.tools.2.57.0.nupkg.sha512"
+  ],
+  "logs": []
+}

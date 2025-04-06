@@ -1,0 +1,77 @@
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.csproj.AssemblyReference.cache
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.GeneratedMSBuildEditorConfig.editorconfig
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.AssemblyInfoInputs.cache
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.AssemblyInfo.cs
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.csproj.CoreCompileInputs.cache
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.MvcApplicationPartsAssemblyInfo.cache
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\appsettings.Development.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\appsettings.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.staticwebassets.endpoints.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.exe
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.deps.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.runtimeconfig.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.pdb
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\Google.Protobuf.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.Core.Api.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.Net.Client.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.Net.Common.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\scopedcss\bundle\PaymentRPC.styles.css
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.build.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.development.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.PaymentRPC.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.PaymentRPC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentRPC.props
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentRPC.props
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentRPC.props
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.pack.json
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.csproj.Up2Date
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\refint\PaymentRPC.dll
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.pdb
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.genruntimeconfig.cache
+F:\ITI\MVC asyut\OrderClient\PaymentService\obj\Debug\net8.0\ref\PaymentRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\appsettings.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.staticwebassets.endpoints.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.exe
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.deps.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.runtimeconfig.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\PaymentRPC.pdb
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.csproj.AssemblyReference.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.AssemblyInfoInputs.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.AssemblyInfo.cs
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.csproj.CoreCompileInputs.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\scopedcss\bundle\PaymentRPC.styles.css
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.PaymentRPC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.PaymentRPC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentRPC.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentRPC.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentRPC.props
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.csproj.Up2Date
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\refint\PaymentRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.pdb
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.genruntimeconfig.cache
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\ref\PaymentRPC.dll
+C:\Users\hyper\Desktop\GRPC\OrderClient\PaymentService\obj\Debug\net8.0\PaymentRPC.sourcelink.json

@@ -1,0 +1,22 @@
+syntax = "proto3";
+option csharp_namespace = "OrderClient.Protos";
+package order;
+
+import "inventory.proto";
+import "payment.proto";
+
+message OrderRequest {
+    string clientId = 1;
+    string productName = 2;
+    int32 quantity = 3;
+    double amount = 4;
+}
+
+message OrderResponse {
+    bool success = 1;
+    string message = 2;
+}
+
+service OrderService {
+    rpc PlaceOrder(OrderRequest) returns (OrderResponse);
+}
